@@ -18,13 +18,13 @@
 
 ToDo
 
-![](patrones.png)
+![](img/patrones.png)
 
 ## Construcción
 
 ToDo
 
-![](madera.png)
+![](img/madera.png)
 
 ## Montaje
 
