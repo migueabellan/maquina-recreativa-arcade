@@ -1,10 +1,10 @@
-# Máquina recreativa DIY
+# Máquina recreativa arcade DIY
 
 > En construcción
 
 ![](preview.png)
 
-- [Máquina recreativa DIY](#m%C3%A1quina-recreativa-diy)
+- [Máquina recreativa arcade DIY](#m%C3%A1quina-recreativa-arcade-diy)
   - [Planos](#planos)
   - [Construcción](#construcci%C3%B3n)
   - [Montaje](#montaje)
