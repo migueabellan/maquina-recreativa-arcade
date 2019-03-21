@@ -2,8 +2,11 @@
 
 > En construcción
 
+![](preview.png)
+
 - [Máquina recreativa DIY](#m%C3%A1quina-recreativa-diy)
   - [Planos](#planos)
+  - [Construcción](#construcci%C3%B3n)
   - [Montaje](#montaje)
   - [Mecánica](#mec%C3%A1nica)
   - [Electrónica](#electr%C3%B3nica)
@@ -14,6 +17,14 @@
 ## Planos
 
 ToDo
+
+![](patrones.png)
+
+## Construcción
+
+ToDo
+
+![](madera.png)
 
 ## Montaje
 
