@@ -34,13 +34,23 @@ Siguiendo el plano, se realizaron los agujeros sobre cada una de las piezas y se
 
 ![](img/montaje.png)
 
+Todas las piezas han sido limadas de forma momentanea ya que el objetivo es crear cantos redondeados.
+
+![](img/limado.png)
+
 En este paso se decidió no encolar todavía las piezas hasta no disponer de las piezas mecánicas como los botones para poder maniobrar mejor en la construcción.
 
 ![](img/montado.png)
 
-ToDo
-
 ## Mecánica
+
+Al estar utilizando materiales reciclados en todo momento, hemos elegido unos altavoces que todavía funcionaban para desmontarlos y añadirlos a la base.
+
+![](img/altavoces.png)
+
+El monitor se ha acoplado a la base mediante bridas sujetadas en el soporte del monitor sin carcasa.
+
+![](img/monitor.png)
 
 ToDo
 
