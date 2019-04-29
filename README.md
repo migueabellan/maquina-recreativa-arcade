@@ -9,6 +9,7 @@
   - [Construcción](#construcci%C3%B3n)
   - [Montaje](#montaje)
   - [Mecánica](#mec%C3%A1nica)
+  - [Metacrilatos](#metacrilatos)
   - [Electrónica](#electr%C3%B3nica)
   - [Retropie](#retropie)
 - [License](#license)
@@ -52,7 +53,11 @@ El monitor se ha acoplado a la base mediante bridas sujetadas en el soporte del 
 
 ![](img/monitor.png)
 
-ToDo
+## Metacrilatos
+
+Se ha utilizado vinilos sobre el metacrilato y la madera de los laterales.
+
+![](img/metacrilatos.png)
 
 ## Electrónica
 
